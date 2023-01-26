@@ -1,0 +1,27 @@
+name: grpc
+channels:
+  - defaults
+dependencies:
+  - c-ares=1.18.1=h1a28f6b_0
+  - ca-certificates=2022.07.19=hca03da5_0
+  - certifi=2022.9.24=py39hca03da5_0
+  - grpcio=1.42.0=py39h95c9599_0
+  - grpcio-tools=1.16.1=py39hc377ac9_0
+  - libcxx=14.0.6=h848a8c0_0
+  - libffi=3.4.2=hc377ac9_4
+  - libprotobuf=3.20.1=h98b2900_0
+  - ncurses=6.3=h1a28f6b_3
+  - openssl=1.1.1q=h1a28f6b_0
+  - pip=22.2.2=py39hca03da5_0
+  - protobuf=3.20.1=py39hc377ac9_0
+  - python=3.9.13=hbdb9e5c_2
+  - readline=8.1.2=h1a28f6b_1
+  - setuptools=63.4.1=py39hca03da5_0
+  - six=1.16.0=pyhd3eb1b0_1
+  - sqlite=3.39.3=h1058600_0
+  - tk=8.6.12=hb8d0fd4_0
+  - tzdata=2022e=h04d1e81_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.6=h1a28f6b_0
+  - zlib=1.2.12=h5a0b063_3
+prefix: /Users/patrickmiller/mac_ext/miniconda3/envs/grpc
